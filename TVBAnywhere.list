@@ -1,6 +1,7 @@
 # TVBAnywhere
 USER-AGENT,TVBAnywhere*
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,metrics.brightcove.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,players.brightcove.net
 DOMAIN,content.r.stripe.com

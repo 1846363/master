@@ -130,17 +130,6 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 
-# TVBAnywhere
-USER-AGENT,TVBAnywhere*
-DOMAIN,bcbolt446c5271-a.akamaihd.net,- 🇺🇲 美国节点
-DOMAIN,edge.api.brightcove.com,- 🇺🇲 美国节点
-DOMAIN,players.brightcove.net,- 🇺🇲 美国节点
-DOMAIN,content.r.stripe.com,- 🇺🇲 美国节点
-DOMAIN,content.jwplatform.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,videos-f.jwpsrv.com
-DOMAIN-SUFFIX,TVBAnywhere
-
 # FoxNow
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com

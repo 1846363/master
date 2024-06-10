@@ -132,10 +132,10 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 
 # TVBAnywhere
 USER-AGENT,TVBAnywhere*
-DOMAIN,bcbolt446c5271-a.akamaihd.net,美国节点
-DOMAIN,edge.api.brightcove.com,美国节点
-DOMAIN,players.brightcove.net,美国节点
-DOMAIN,content.r.stripe.com,美国节点
+DOMAIN,bcbolt446c5271-a.akamaihd.net,🇺🇲 美国节点
+DOMAIN,edge.api.brightcove.com,🇺🇲 美国节点
+DOMAIN,players.brightcove.net,🇺🇲 美国节点
+DOMAIN,content.r.stripe.com,🇺🇲 美国节点
 DOMAIN,content.jwplatform.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,videos-f.jwpsrv.com
@@ -239,7 +239,7 @@ DOMAIN-SUFFIX,kktv.me
 
 # LiTV
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,litv。tv
 
 # LineTV
 USER-AGENT,LINE%20TV*

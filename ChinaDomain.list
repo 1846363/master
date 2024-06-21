@@ -24,8 +24,8 @@ DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
-DOMAIN,livednow.com
-DOMAIN,beesport.livednow.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,beesport.livednow.com
 IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 
 # CN域名直连(中国|公司|网络)

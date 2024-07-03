@@ -260,6 +260,8 @@ DOMAIN-SUFFIX,tvb.com
 # pixman
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,ofiii.com
 
 # Netflix
 USER-AGENT,Argo*

@@ -251,6 +251,7 @@ DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN,edgeware-live.edgeware.tvb.com
 
 # Netflix
 USER-AGENT,Argo*
@@ -454,3 +455,11 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# TV
+DOMAIN-SUFFIX,163189.xyz
+DOMAIN,cdn5.zone.id
+DOMAIN,live.101.qzz.io
+DOMAIN,live.tvfix.org
+DOMAIN,www.1846363.xyz
+DOMAIN,jxiptv.dpdns.org

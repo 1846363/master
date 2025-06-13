@@ -1,0 +1,13 @@
+# MyTVSuper
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+# TV
+DOMAIN-SUFFIX,163189.xyz
+DOMAIN,cdn5.zone.id
+DOMAIN,mytv.101.qzz.io
+DOMAIN,live.tvfix.org
+DOMAIN,www.1846363.xyz
+DOMAIN,o12.1678520.xyz
+DOMAIN,011v4.pendy.dpdns.org

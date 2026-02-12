@@ -1,7 +1,3 @@
-# Astro
-USER-AGENT,Astro*
-DOMAIN,d1yws6emo43ny.cloudfront.net
-DOMAIN,divign0fdw3sv.cloudfront.net
-DOMAIN,linears-playback.astro.com.my
-DOMAIN,linearjitp-playback.astro.com.my
-DOMAIN,linearjitp02-playback.astro.com.my
+# Unifi-TV
+USER-AGENT,Unifi-TV*
+DOMAIN,unifi-live2.secureswiftcontent.com

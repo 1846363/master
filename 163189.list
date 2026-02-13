@@ -1,7 +1,12 @@
 # 163189
 USER-AGENT,163189*
-DOMAIN-SUFFIX,163189.xyz
-DOMAIN-SUFFIX,cdn.loc.cc
-DOMAIN-SUFFIX,1678520.xyz
-DOMAIN-SUFFIX,go-iptv.ggff.net
-DOMAIN-SUFFIX,goiptv.us.ci
+DOMAIN,cdn2.163189.xyz
+DOMAIN,cdn6.163189.xyz
+DOMAIN,cdn8.163189.xyz
+DOMAIN,mytv.cdn.loc.cc
+DOMAIN,6.cdn.loc.cc
+DOMAIN,o11.163189.xyz
+DOMAIN,cdn.163189.xyz
+DOMAIN,tvb.go-iptv.ggff.net
+DOMAIN,litv.go-iptv.ggff.net
+DOMAIN,tuiliu.goiptv.us.ci
